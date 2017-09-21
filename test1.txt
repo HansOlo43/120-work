@@ -5,4 +5,6 @@ This is my first text document for one of Dr. Musick's Media Arts Courses.
 
 I added a new line to this file in my text editor!!!
 
-Ch-Ch-Changes 
+Ch-Ch-Changes
+
+More Changes
