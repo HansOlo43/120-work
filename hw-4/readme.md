@@ -1,0 +1,3 @@
+# My Week in Creative Coding
+## Hans Sommerhoff
+This week in coding, I had to create my first sketch using java.script. At first I was a little nervous to get started, but once I got going, it just kept getting easier and easier as I went. Its pretty simple if you have a basic knowledge of math and graphs. I had a little trouble picturing what I was typing, but using the index.html file really helps watch your drawing come together. I didn't really have any problems this week that I couldn't solve myself. But I did get together with a friend who has the class to work together and help each other out with the sketch. Having someone right there to help with the problems really makes things more bearable.
