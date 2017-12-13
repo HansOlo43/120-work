@@ -1,5 +1,5 @@
 let balls = [];
-const numOfBalls = 60;
+const numOfBalls = 65;
 
 function setup() {
     createCanvas(windowWidth, windowHeight);
